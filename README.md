@@ -6,13 +6,11 @@ Aspiring Data Analyst | Excel • SQL • Power BI • Python
 
 ---
 
-- 💬 Ask me about **⚙️ Making data speak the business language.**
+- **Ask me about: Data cleaning, SQL queries, dashboard storytelling, and business insights**
 
-- 📫 How to reach me **hmxanalysis@gmail.com**
+- **How to reach me** **hmxanalysis@gmail.com**
 
-- ⚡ **Fast thoughts, faster queries — 74 WPM with high accuracy.**
-
-- 👨‍💻 All of my projects are available at <a href="https://github.com/hritikanalytics" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="20" width="35" />
+- **👨‍💻 All of my projects are available on GitHub**
 
 - 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1HGH2k7BgRqmUWLegi1X2a2xkQrCiKLqW/view)
 
