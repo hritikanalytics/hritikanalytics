@@ -12,7 +12,7 @@ Aspiring Data Analyst | Excel • SQL • Power BI • Python
 
 - **👨‍💻 All of my projects are available on GitHub**
 
-- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1HGH2k7BgRqmUWLegi1X2a2xkQrCiKLqW/view)
+- **📄 About me** [![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1HGH2k7BgRqmUWLegi1X2a2xkQrCiKLqW/view)
 
 ---
 
